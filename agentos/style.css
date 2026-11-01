@@ -129,6 +129,8 @@ h3{font-size:17px;line-height:1.35;margin:0 0 6px}
 .matrix tr:last-child td{border-bottom:0}
 h3.subhead{margin:28px 0 12px;font-size:18px}
 .points.differs{grid-template-columns:1fr}
+#how-ai-is-built-in .points.ai strong{color:var(--violet)}
+#how-ai-is-built-in .closer{color:var(--ink);margin-top:22px;margin-bottom:0}
 .points li.span{grid-column:1 / -1}
 .points.reqs li{color:var(--ink)}
 .sys{
