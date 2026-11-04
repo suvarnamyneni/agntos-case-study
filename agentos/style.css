@@ -290,7 +290,6 @@ h3.subhead{margin:28px 0 12px;font-size:18px}
 .kit-bits h3{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--violet);margin:0 0 8px}
 .kit-bits img{width:auto;max-width:100%;height:auto}
 .metrics{grid-template-columns:1fr 1fr}
-.metric span{display:block;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--sage);font-weight:700;margin-bottom:6px}
 .endcap{
   margin-top:16px;padding:16px 18px;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
   display:flex;flex-wrap:wrap;gap:12px 18px;align-items:center;justify-content:space-between;
